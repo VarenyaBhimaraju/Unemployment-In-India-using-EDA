@@ -1,7 +1,7 @@
 UNEMPLOYMENT IN INDIA USING EXPLORATORY DATA ANALYTICS (EDA)
 
 
-About the dataset:
+About the uploaded/used dataset:
 
 This dataset contains the unemployment rate of all the working/non working class population of the states in India.
 
